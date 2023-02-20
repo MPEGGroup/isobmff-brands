@@ -1,0 +1,42 @@
+{
+    "brand": "isoa",
+    "baseBrand": "iso9",
+    "edition": 6,
+    "requiredBoxSupport":[
+        {
+            "type": "iprp",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "grpl",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "stmi",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "drap",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "altr",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "prol",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "sap ",
+            "versions": [],
+            "flags": []
+        }
+    ]
+}

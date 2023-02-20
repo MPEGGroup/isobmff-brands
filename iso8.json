@@ -1,0 +1,12 @@
+{
+    "brand": "iso8",
+    "baseBrand": "iso7",
+    "edition": 4,
+    "requiredBoxSupport":[
+        {
+            "type": "sthd",
+            "versions": [],
+            "flags": []
+        }
+    ]
+}

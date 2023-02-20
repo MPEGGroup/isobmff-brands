@@ -1,0 +1,11 @@
+{
+    "brand": "iso5",
+    "baseBrand": "iso4",
+    "edition": 4,
+    "requiredBoxSupport":[
+        {
+            "type": "tfhd",
+            "flags": [131072]
+        }
+   ]
+}

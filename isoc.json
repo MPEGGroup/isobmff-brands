@@ -1,0 +1,32 @@
+{
+    "brand": "isoc",
+    "baseBrand": "isob",
+    "edition": 6,
+    "requiredBoxSupport":[
+        {
+            "type": "!mov",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "!six",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "!ssx",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "!mof",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "otyp",
+            "versions": [],
+            "flags": []
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "brand": "iso3",
+    "baseBrand": "iso2",
+    "edition": 3,
+    "requiredBoxSupport":[
+        {
+            "type": "iinf",
+            "versions": [0,1],
+            "flags": []
+        },
+    	{
+    		"type": "fiin",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "paen",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "fpar",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "fecr",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "segr",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "gitn",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "tsel",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "meco",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mere",
+    		"versions": [],
+    		"flags": []
+    	},
+        {
+            "type": "rash",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "fdp ",
+            "versions": [],
+            "flags": []
+        }
+   ]
+}

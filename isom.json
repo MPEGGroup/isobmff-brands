@@ -1,0 +1,236 @@
+{
+    "brand": "isom",
+    "edition": 1,
+    "requiredBoxSupport":[
+    	{
+    		"type": "moov",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mvhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "iods",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "trak",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "tref",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "edts",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "elst",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mdia",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mdhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "hdlr",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "minf",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "vmhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "smhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "hmhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "XXXXXXXXXXXXXXmpeg stream headers",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "dinf",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "dref",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stbl",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stts",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "ctts",
+    		"versions": [0],
+    		"flags": []
+    	},
+    	{
+    		"type": "stss",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stsd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stsz",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stsc",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stco",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "co64",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stsh",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stdp",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mdat",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "free",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "skip",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "udta",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "ftyp",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "stz2",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "padb",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mvex",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mehd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "trex",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "moof",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mfhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "traf",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "tfhd",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "trun",
+    		"versions": [0],
+    		"flags": []
+    	},
+    	{
+    		"type": "mfra",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "tfra",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "mfro",
+    		"versions": [],
+    		"flags": []
+    	}
+    ]
+}

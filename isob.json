@@ -1,0 +1,22 @@
+{
+    "brand": "isob",
+    "baseBrand": "isoa",
+    "edition": 6,
+    "requiredBoxSupport":[
+        {
+            "type": "sap ",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "ster",
+            "versions": [0,1],
+            "flags": []
+        },
+        {
+            "type": "msrc",
+            "versions": [0,1],
+            "flags": []
+        }
+    ]
+}

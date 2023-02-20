@@ -1,0 +1,17 @@
+{
+    "brand": "iso9",
+    "baseBrand": "iso8",
+    "edition": 4,
+    "requiredBoxSupport":[
+        {
+            "type": "elng",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "cslg",
+            "versions": [0,1],
+            "flags": []
+        }
+    ]
+}

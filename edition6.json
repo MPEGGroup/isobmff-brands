@@ -1,0 +1,112 @@
+{
+	"edition": 6,
+	"document": "N19301",
+	"boxes": {
+		"tyco": {
+		},
+		"etyp": {
+		},
+		"imda": {
+		},
+		"thmb": {
+		},
+		"msrc": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"ster": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"ttyp": {
+		},
+		"elst": {
+			"versions": [0,1],
+			"flags": [0,1]
+		}, 
+		"imdt": {
+			"versions": [0],
+			"flags": [0,1]
+		}, 
+		"snim": {
+			"versions": [0],
+			"flags": [0,1]
+		}, 
+		"csgp": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"ipco": {
+		},
+		"ipma": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"iprp": {
+		},
+		"brnd": {
+		},
+		"scrb": {
+		},
+		"prft": {
+			"versions": [0,1,2,4,8,16],
+			"flags": [0]
+		},
+		"grpl": {
+		},
+		"altr": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"otyp": {
+		},
+		"!mov": {
+		},
+		"!mof": {
+		},
+		"!six": {
+		},
+		"!ssx": {
+		},
+		"stmi": {
+		},
+		"drap": {
+		},
+		"clli": {
+		},
+		"mdcv": {
+		},
+		"cclv": {
+		},
+		"chnl": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"dmix": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"tlou": {
+			"versions": [0,1,2],
+			"flags": [0]
+		}, 
+		"alou": {
+			"versions": [0,1,2],
+			"flags": [0]
+		}, 
+		"mime": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"mebx": {
+		},
+		"keys": {
+		},
+		"keyd": {
+		},
+		"loca": {
+		},
+		"setu": {
+		}
+	}
+}

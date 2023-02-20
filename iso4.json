@@ -1,0 +1,58 @@
+{
+    "brand": "iso4",
+    "baseBrand": "iso3",
+    "edition": 4,
+    "requiredBoxSupport":[
+        {
+            "type": "iinf",
+            "versions": [0,1],
+            "flags": []
+        },
+        {
+            "type": "iloc",
+            "versions": [0,1],
+            "flags": []
+        },
+        {
+            "type": "pitm",
+            "versions": [0],
+            "flags": []
+        },
+        {
+            "type": "infe",
+            "versions": [0,1,2],
+            "flags": []
+        },
+        {
+            "type": "iref",
+            "versions": [0],
+            "flags": []
+        },
+        {
+            "type": "fpar",
+            "versions": [0],
+            "flags": []
+        },
+        {
+            "type": "fecr",
+            "versions": [0],
+            "flags": []
+        },
+        {
+            "type": "fire",
+            "versions": [0],
+            "flags": []
+        },
+        {
+            "type": "trgr"
+        },
+        {
+            "type": "cslg",
+            "versions": [0],
+            "flags": []
+        },
+        {
+            "type": "idat"
+        }
+   ]
+}

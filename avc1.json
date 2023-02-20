@@ -1,0 +1,27 @@
+{
+    "brand": "avc1",
+    "baseBrand": "isom",
+    "edition": 3,
+    "requiredBoxSupport":[
+    	{
+    		"type": "sdtp",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "sbgp",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "sgpd",
+    		"versions": [],
+    		"flags": []
+    	},
+        {
+            "type": "roll",
+            "versions": [],
+            "flags": []
+        }
+    ]
+}

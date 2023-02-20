@@ -1,0 +1,141 @@
+{
+	"edition": 3,
+	"boxes": { 
+		"hind": {
+		}, 
+		"sdtp": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"pdin": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"btrt": {
+		},
+		"metx": {
+		},
+		"mett": {
+		},
+		"pasp": {
+		},
+		"clap": {
+		},
+		"stsl": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"subs": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"sbgp": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"sgpd": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"tsel": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"meta": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"xml ": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"bxml": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"iloc": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"pitm": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"ipro": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"fdel": {
+		},
+		"infe": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"iinf": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"meco": {
+		},
+		"mere": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"sinf": {
+		},
+		"frma": {
+		},
+		"imif": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"ipmc": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"schm": {
+			"versions": [0],
+			"flags": [1]
+		},
+		"schi": {
+		},
+		"paen": {
+		},
+		"fiin": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"fpar": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"fecr": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"segr": {
+		},
+		"gitn": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"srtp": {
+		},
+		"srpp": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"fdp ": {
+		},
+		"fdsa": {
+		},
+		"fdpa": {
+		},
+		"extr": {
+		},
+		"roll": {
+		},
+		"rash": {
+		}
+	}
+}

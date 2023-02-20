@@ -1,0 +1,82 @@
+{
+    "brand": "iso2",
+    "baseBrand": "avc1",    
+    "edition": 2,
+    "requiredBoxSupport":[
+    	{
+    		"type": "pdin",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "subs",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "ipmc",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "meta",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "iloc",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "ipro",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "sinf",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "frma",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "imif",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "schm",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "schi",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "iinf",
+    		"versions": [0],
+    		"flags": []
+    	},
+    	{
+    		"type": "xml ",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "bxml",
+    		"versions": [],
+    		"flags": []
+    	},
+    	{
+    		"type": "pitm",
+    		"versions": [],
+    		"flags": []
+    	}
+    ]
+}

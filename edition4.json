@@ -1,0 +1,228 @@
+{
+	"edition": 4,
+	"document": "N16163",
+	"boxes": {
+		"vdep": {
+		}, 
+		"vplx": {
+		}, 
+		"subt": {
+		}, 
+		"trgr": {
+		}, 
+		"msrc": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"elng": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"cslg": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"saiz": {
+			"versions": [0],
+			"flags": [0,1]
+		},
+		"saio": {
+			"versions": [0,1],
+			"flags": [0,1]
+		},
+		"tfhd": {
+			"versions": [0],
+			"flags": [0,1,2,8,16,32,65536,131072]
+		}, 
+		"tfdt": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"leva": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"trep": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"assp": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"sbgp": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"sgpd": {
+			"versions": [0,1,2],
+			"flags": [0]
+		},
+		"kind": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"iloc": {
+			"versions": [0,1,2],
+			"flags": [0]
+		},
+		"pitm": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"infe": {
+			"versions": [0,1,2,3],
+			"flags": [0]
+		},
+		"iinf": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"idat": {
+		}, 
+		"iref": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"fpar": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"fecr": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"fire": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"strk": {
+		}, 
+		"stri": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"stsg": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"rinf": {
+		}, 
+		"stvi": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"styp": {
+		},
+		"sidx": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"ssix": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"prft": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"icpv": {
+		}, 
+		"cinf": {
+		}, 
+		"feci": {
+		}, 
+		"rm2t": {
+		}, 
+		"sm2t": {
+		}, 
+		"tPAT": {
+		}, 
+		"tPMT": {
+		}, 
+		"tOD ": {
+		}, 
+		"tsti": {
+		}, 
+		"istm": {
+		}, 
+		"pm2t": {
+		}, 
+		"rrtp": {
+		}, 
+		"tssy": {
+		}, 
+		"rssr": {
+		}, 
+		"rtpx": {
+		}, 
+		"rcsr": {
+		}, 
+		"rsrp": {
+		}, 
+		"ccid": {
+		}, 
+		"sroc": {
+		}, 
+		"prtp": {
+		}, 
+		"prol": {
+		}, 
+		"alst": {
+		}, 
+		"rap ": {
+		}, 
+		"tele": {
+		}, 
+		"sap ": {
+		}, 
+		"colr": {
+		}, 
+		"srat": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"chnl": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"dmix": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"tlou": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"alou": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"ludt": {
+		}, 
+		"txtC": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"uri ": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"uriI": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"urim": {
+		}, 
+		"stxt": {
+		}, 
+		"sthd": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stpp": {
+		}, 
+		"sbtt": {
+		}
+	}
+}

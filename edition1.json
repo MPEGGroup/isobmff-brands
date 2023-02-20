@@ -1,0 +1,217 @@
+{
+	"edition": 1,
+	"boxes": {
+		"ftyp" : {
+		},
+		"moov": {
+		}, 
+		"mvhd": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"trak": {
+		}, 
+		"tkhd": {
+			"versions": [0,1],
+			"flags": [0,1,2,4]
+		},
+		"tref": {
+		}, 
+		"hint": {
+		}, 
+		"cdsc": {
+		}, 
+		"edts": {
+		}, 
+		"elst": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"mdia": {
+		}, 
+		"mdhd": {
+			"versions": [0,1],
+			"flags": [0]
+		},
+		"hdlr": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"minf": {
+		}, 
+		"vmhd": {
+			"versions": [0],
+			"flags": [1]
+		}, 
+		"smhd": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"hmhd": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"nmhd": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"dinf": {
+		}, 
+		"dref": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"url ": {
+			"versions": [0],
+			"flags": [0,1]
+		}, 
+		"urn ": {
+			"versions": [0],
+			"flags": [0,1]
+		}, 
+		"stbl": {
+		}, 
+		"stsd": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stts": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"ctts": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stsc": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stsz": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stz2": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stco": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"co64": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stss": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stsh": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"padb": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"stdp": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"mvex": {
+		}, 
+		"mehd": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"trex": {
+			"versions": [0],
+			"flags": [0]
+		}, 
+		"moof": {
+		}, 
+		"mfhd": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"traf": {
+		}, 
+		"tfhd": {
+			"versions": [0],
+			"flags": [0,1,2,8,16,32,65536]
+		}, 
+		"trun": {
+			"versions": [0],
+			"flags": [0,1,4,256,512,1024,2048]
+		}, 
+		"mfra": {
+		}, 
+		"tfra": {
+			"versions": [0,1],
+			"flags": [0]
+		}, 
+		"mfro": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"mdat": {
+		},
+		"free": {
+		},
+		"skip": {
+		},
+		"udta": {
+		}, 
+		"cprt": {
+			"versions": [0],
+			"flags": [0]
+		},
+		"rtp ": {
+		},
+		"tims": {
+		},
+		"tsro": {
+		},
+		"snro": {
+		},
+		"rtpo": {
+		},
+		"hnti": {
+		},
+		"sdp ": {
+		},
+		"hinf": {
+		},
+		"trpy": {
+		},
+		"nump": {
+		},
+		"tpyl": {
+		},
+		"totl": {
+		},
+		"npck": {
+		},
+		"tpay": {
+		},
+		"maxr": {
+		},
+		"dmed": {
+		},
+		"dimm": {
+		},
+		"drep": {
+		},
+		"tmin": {
+		},
+		"tmax": {
+		},
+		"pmax": {
+		},
+		"dmax": {
+		},
+		"payt": {
+		}
+	}
+}

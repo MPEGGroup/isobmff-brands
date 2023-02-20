@@ -1,0 +1,10 @@
+{
+	"edition": 5,
+	"document": "N15177",
+	"boxes": {
+		"tkhd": {
+			"versions": [0,1],
+			"flags": [0,1,2,4,8]
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+    "brand": "iso6",
+    "baseBrand": "iso5",
+    "edition": 4,
+    "requiredBoxSupport":[
+        {
+            "type": "saiz",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "saio",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "tfdt",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "styp",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "sidx",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "ssix",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "prft",
+            "versions": [],
+            "flags": []
+        },
+        {
+            "type": "trun",
+            "versions": [0,1],
+            "flags": []
+        },
+        {
+            "type": "rap "
+        }
+   ]
+}
